@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs21unkngoog/patrologiaecurs21unkngoog_0639.png"; bbox 0 0 1023 1606; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 619 188 874 208">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 619 188 874 208">
+     <span class='ocr_line' id='line_1_1' title="bbox 619 188 874 208; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 619 188 874 208; x_wconf 74' lang='grc'>32044054758750</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 375 882 609 944">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 375 882 609 944">
+     <span class='ocr_line' id='line_1_2' title="bbox 375 882 605 911; baseline -0.022 -2"><span class='ocrx_word' id='word_1_2' title='bbox 375 886 429 911; x_wconf 73' lang='lat' dir='ltr'>noes</span> <span class='ocrx_word' id='word_1_3' title='bbox 443 887 455 908; x_wconf 80' lang='grc' dir='ltr'><strong>Ν</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 516 882 605 906; x_wconf 62' lang='lat' dir='ltr'>Renum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 375 916 609 944; baseline -0.009 -2"><span class='ocrx_word' id='word_1_5' title='bbox 375 920 434 944; x_wconf 73' lang='grc' dir='ltr'>ουτει</span> <span class='ocrx_word' id='word_1_6' title='bbox 474 918 511 940; x_wconf 62' lang='lat' dir='ltr'><strong>ms</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 544 916 609 938; x_wconf 57' lang='lat' dir='ltr'><strong>&#39;zm</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
